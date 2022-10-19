@@ -4,32 +4,28 @@
 
 ![](./assets/design.PNG)
 
+### Link do projeto: 
+
 ## Techs💻
+
+### 🔗 [Storybook](https://storybook.js.org/)
 
 ### 🔗 [Figma](https://www.figma.com)
 
-* Editor gráfico para elaboração do design system da aplicação.
-
 ## Libraries📚
 
-### 🔗 [TailwindCss](https://phosphoricons.com/)
+### 🔗 [TailwindCss](https://tailwindcss.com/)
 
-### 🔗 [PostCss](https://phosphoricons.com/)
+### 🔗 [PostCss](https://postcss.org/)
 
-### 🔗 [Autoprefixer](https://phosphoricons.com/)
+### 🔗 [Autoprefixer](https://autoprefixer.github.io/)
 
 ### 🔗 [Phosphor Icons](https://phosphoricons.com/)
-
-* Uma biblioteca com uma variedade de mais de 1000 ícones.
 
 ## Tools🧰
 
 ### 🔗 [Vite](https://vitejs.dev)
 
-* Ferramenta de construção de 10 a 100 vezes mais rápido do que outros empacotadores.
-
 ### 🔗 [World Vector Logo](https://worldvectorlogo.com/)
-
-* Site para download gratuito de logos.
 
 
