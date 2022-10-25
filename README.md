@@ -2,9 +2,10 @@
 
 >Projecto desenvolvido durante a maratona Ignite Lab 03 🚀
 
-![](./assets/design.PNG)
+## 🔗 [Design Figma](https://www.figma.com/file/SzAXvXWO11qikVo9Yb5UaO/Ignite-Lab-Design-System)
 
-### Link do projeto: 
+[<img src = "assets/design.PNG" width="500px" >](https://www.figma.com/file/SzAXvXWO11qikVo9Yb5UaO/Ignite-Lab-Design-System)
+
 
 ## Techs💻
 
