@@ -4,7 +4,11 @@
 
 ![](./assets/design.PNG)
 
-### Link do projeto: 
+### Link:
+
+ [Design System on Storybook](https://mellcosta.github.io/ignite_lab_design_system/?path=/story/components-button--default )
+
+ ---
 
 ## Techs💻
 
